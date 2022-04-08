@@ -1,0 +1,11 @@
+{
+  "id": "raindropio",
+  "name": "Raindrop",
+  "version": "5.4.21",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.raindrop.io/",
+    "hasNotificationSound": true,
+    "hasIndirectMessages": true
+  }
+}
